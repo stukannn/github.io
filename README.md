@@ -1,7 +1,7 @@
 utb utb:    https://www.youtube.com/watch?v=5XhxR9Vs6zc
 
 1.  Create a repo named    github.io
-2.  add 3 files to repo    display the local Date and Time and a Welcome Message " Hello from stukann" as follows:
+2.  add 3 files to repo    display the local Date and Time and a Welcome Message " Hello from stukannn" as follows:
    2.1  Create index.html
    2.2  Create styles.css
    2.3  Create script.js
@@ -17,7 +17,7 @@ index.html
     <script src="script.js" defer></script>
 </head>
 <body>
-    <h1>Hello from stukann</h1>
+    <h1>Hello from stukannn</h1>
     <p id="datetime"></p>
 </body>
 </html>
