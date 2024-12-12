@@ -1,14 +1,34 @@
-utb utb:    https://www.youtube.com/watch?v=5XhxR9Vs6zc
+#  create and update Github Pages site
+https://github.com/stukannn/github.io
 
-1.  Create a repo named    github.io
-2.  add 3 files to repo    display the local Date and Time and a Welcome Message " Hello from stukannn" as follows:
-   2.1  Create index.html
-   2.2  Create styles.css
-   2.3  Create script.js
+--------------------------------------------------------------------------------------------------------------------
+B.   Build & Deployment of Github.io Pages repo
+b1.  select & open Github.io > Settings > Pages
+      if build      - 1.  the original branch is empty
+                      2.  must refresh branch by a clicking cycle of: 'none' + 'Save', and then, 'main' + 'Save'.
+      if deployment - 1.  the original branch has all the necessary data
+                      2.  goto Settings > Pages > Action, wait till the deployment is completed
+                      3.  goto Settings > Pages . Visit site to open stukannn's Github.io Pages site
+--------------------------------------------------------------------------------------------------------------------
+
+A.   Create Github Pages site
+1.   Create a repo named in vantkan account named  'github.io'
+     Log-in Github vantjkan & Open Dashboard page:  click  New  button    
+1.1   https://github.com/new page is opened, and enter the following entries
+1.2   Repository name     github.io
+                          public
+                          select - Add a README.md file
+                          Choose - a license   MIT License                   
+1.3    Click  Create repository  button
+
+2.  add 3 files to repo
+   2.1  Create index.html 
+   2.2  Create styles.css 
+   2.3  Create script.js 
 
 index.html
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en">                     
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -17,7 +37,7 @@ index.html
     <script src="script.js" defer></script>
 </head>
 <body>
-    <h1>Hello from stukannn</h1>
+    <h1>Hello from stukann</h1>
     <p id="datetime"></p>
 </body>
 </html>
@@ -49,4 +69,3 @@ document.addEventListener('DOMContentLoaded', (event) => {
     updateDateTime();
     setInterval(updateDateTime, 1000); // Update every second
 });
-
