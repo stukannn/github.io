@@ -12,7 +12,7 @@ b1.  select & open Github.io > Settings > Pages
 --------------------------------------------------------------------------------------------------------------------
 
 A.   Create Github Pages site
-1.   Create a repo named in vantkan account named  'github.io'
+1.   Create a repo named in vantjkan account named  'github.io'
      Log-in Github vantjkan & Open Dashboard page:  click  New  button    
 1.1   https://github.com/new page is opened, and enter the following entries
 1.2   Repository name     github.io
