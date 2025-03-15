@@ -4,6 +4,7 @@ https://github.com/stukannn/github.io
 --------------------------------------------------------------------------------------------------------------------
 B.   Build & Deployment of Github.io Pages repo
 b1.  select & open Github.io > Settings > Pages
+
       if build      - 1.  the original branch is empty
                       2.  must refresh branch by a clicking cycle of: 'none' + 'Save', and then, 'main' + 'Save'.
       if deployment - 1.  the original branch has all the necessary data
@@ -12,19 +13,27 @@ b1.  select & open Github.io > Settings > Pages
 --------------------------------------------------------------------------------------------------------------------
 
 A.   Create Github Pages site for vantjkan account in github :
+
 1.   Create a repo named in vantjkan account named  'github.io'
      Log-in Github vantjkan & Open Dashboard page:  click  New  button    
-1.1   https://github.com/new page is opened, and enter the following entries
-1.2   Repository name     github.io
+      1.1   https://github.com/new page is opened, and enter the following entries
+     
+      1.2   Repository name     github.io
                           public
+     
                           select - Add a README.md file
-                          Choose - a license   MIT License                   
-1.3    Click  Create repository  button
+     
+                          Choose - a license   MIT License
+                        
+      1.3    Click  Create repository  button
 
-2.  add 3 files to repo
-   2.1  Create index.html 
-   2.2  Create styles.css 
-   2.3  Create script.js 
+3.  add 3 files to repo
+   
+      2.1  Create index.html
+     
+      2.2  Create styles.css
+     
+      2.3  Create script.js 
 
 index.html
 <!DOCTYPE html>
