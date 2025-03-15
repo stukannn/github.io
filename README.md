@@ -11,7 +11,7 @@ b1.  select & open Github.io > Settings > Pages
                       3.  goto Settings > Pages . Visit site to open stukannn's Github.io Pages site
 --------------------------------------------------------------------------------------------------------------------
 
-A.   Create Github Pages site
+A.   Create Github Pages site for vantjkan account in github :
 1.   Create a repo named in vantjkan account named  'github.io'
      Log-in Github vantjkan & Open Dashboard page:  click  New  button    
 1.1   https://github.com/new page is opened, and enter the following entries
